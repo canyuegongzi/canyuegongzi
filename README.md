@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- [blog](http://blog.canyuegongzi.xyz)
+- [canyuegongzi.io](https://canyuegongzi.github.io)
